@@ -1,5 +1,5 @@
 {
-  "name": "Simple Hi",
-  "description": "A minimalist page displaying 'Hi' centered on the screen.",
+  "name": "Simple Hello",
+  "description": "A minimalist page displaying 'Hello' centered on the screen.",
   "requestFramePermissions": []
 }

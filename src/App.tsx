@@ -14,7 +14,7 @@ export default function App() {
         transition={{ duration: 1, ease: "easeOut" }}
         className="text-[6rem] font-medium text-gray-900"
       >
-        Hi
+        Hello
       </motion.h1>
     </div>
   );
